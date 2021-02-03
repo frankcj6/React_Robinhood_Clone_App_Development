@@ -1,0 +1,40 @@
+.timeline_container{
+    display: flex;
+    border-bottom: 1px solid #3b4754;
+}
+
+.timeline_wrapper{
+    display:flex;
+    align-items: center;
+    padding-bottom: 0px;
+}
+
+.timeline_button_container{
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    justify-content: space-evenly;
+    padding-bottom: 0px;
+}
+
+.timeline_button{
+    color: white;
+    font-weight: bold;
+    padding: 10px, 10px, 20px, 10px;
+    cursor: pointer;
+}
+
+.timeline_live{
+    padding:12px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.timeline_button:hover{
+    color: #5AC53B;
+}
+
+.timeline_button.active{
+    color:#5AC53B;
+    border-bottom: 2px solid #5AC53B;
+}
