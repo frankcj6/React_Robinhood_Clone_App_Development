@@ -1,2 +1,7 @@
-# React_Robinhood_Clone_App_Development
-This is a React App Development to recreate Robinhood App
+# React Robinhood Clone App Development
+Created by Frank Jiang (Credit to 'CleverProgrammer')
+
+![image](Demo.gif)
+
+
+
