@@ -34,4 +34,33 @@ We are using the 'VS Code ES7 React/Redux/React-Native/JS snippets' for JS funct
 
 ### File Structure
 
+.
+    | --- public                                 
+    | --- src                               
+    |     |--- .idea
+	   |--- .vs
+          |--- App.css
+          |--- App.js
+          |--- App.test.js
+          |--- Article.js
+          |--- Header.css
+          |--- Header.js
+          |--- LineGraph.js
+          |--- Newsfeed.css
+          |--- Newsfeed.js
+		               ...
+    | --- eslintcache                                 
+    | --- Demo.gif                    
+    | --- Package-lock.json                 
+    | --- Package.json
+    | --- Main_App.py                           
+    | --- README.md  
+
+
+###  Reference
+
+https://finnhub.io/docs/api/introduction
+https://github.com/CleverProgrammers/robinhood-clone
+https://reactjs.org/docs/create-a-new-react-app.html
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets&ssr=false#overview
 
