@@ -33,22 +33,21 @@ npx create-react-app robinhood-clone
 We are using the 'VS Code ES7 React/Redux/React-Native/JS snippets' for JS function development. The real time trading data are pulled from Finnhub API. Finnhub is an open-source Financial API platform. The API is organized around REST. Our API has predictable resource-oriented URLs, accepts form-encoded request bodies, returns JSON-encoded responses, and uses standard HTTP response codes, authentication, and verbs. This is 1 of the most comprehensive financial API available on the market. At the same time, the front-end interface are edit by CSS and HTML. 
 
 ### File Structure
-
-.
+    .
     | --- public                                 
     | --- src                               
     |     |--- .idea
-	   |--- .vs
-          |--- App.css
-          |--- App.js
-          |--- App.test.js
-          |--- Article.js
-          |--- Header.css
-          |--- Header.js
-          |--- LineGraph.js
-          |--- Newsfeed.css
-          |--- Newsfeed.js
-		               ...
+    |	  |--- .vs
+    |     |--- App.css
+    |     |--- App.js
+    |     |--- App.test.js
+    |     |--- Article.js
+    |     |--- Header.css
+    |     |--- Header.js
+    |     |--- LineGraph.js
+    |     |--- Newsfeed.css
+    |     |--- Newsfeed.js
+    |
     | --- eslintcache                                 
     | --- Demo.gif                    
     | --- Package-lock.json                 
