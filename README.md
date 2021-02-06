@@ -19,10 +19,10 @@ Created by Frank Jiang (Credit to 'CleverProgrammer')
 ```
 
 ### Description
-This web app is the clone of the Robinhood App. Robinhood is a trading App that supports commission-free trades of stocks and exchange-traded funds. This project is using React+Finnhub+Ruby as the development stack. 
+This web app is the clone of the Robinhood App. Robinhood is a trading App that supports commission-free trades of stocks and exchange-traded funds. This project is using React+Finnhub+Firebase as the development stack. 
 
 ### Development Tools
-We are using React+ Finnhub +Ruby as the development tool. 
+We are using React+ Finnhub +Firebase as the development tool. 
 
 For React, start the React App by using the following command:
 
